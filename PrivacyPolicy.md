@@ -129,4 +129,4 @@ request to: delete@podcastindex.org
 ## Changes
 Our Privacy Policy may change from time to time. We will not reduce your rights under
 this Privacy Policy without your explicit consent. We will post any privacy policy
-changes on this page.
+changes on this page, and have a [full changelog on GitHub](https://github.com/Podcastindex-org/legal/commits/main/PrivacyPolicy.md).
